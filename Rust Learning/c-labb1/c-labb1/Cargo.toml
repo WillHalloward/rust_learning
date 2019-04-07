@@ -1,0 +1,7 @@
+[package]
+name = "c-labb1"
+version = "0.1.0"
+authors = ["Halloward <Willhalloward@gmail.com>"]
+edition = "2018"
+
+[dependencies]
