@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/c-labb1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/c-labb1/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/c-labb1/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/c-labb1/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/guess_number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/guess_number/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/guess_number/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/guess_number/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/rectangles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/rectangles/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/rectangles/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Rust Learning/rectangles/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust Learning/c-labb1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust Learning/guess_number/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Rust Learning/rectangles/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
